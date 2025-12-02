@@ -2,7 +2,7 @@
 
 EasyPC je web aplikacija za izgradnju i kupovinu računara. Korisnici mogu pregledati gotove konfiguracije ili izgraditi sopstveni PC odabirom komponenti.
 
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/home%20page.png)
 
 ## 🚀 Funkcionalnosti
 
@@ -11,24 +11,24 @@ EasyPC je web aplikacija za izgradnju i kupovinu računara. Korisnici mogu pregl
 - Filtriranje po kategorijama, komponentama i cijeni
 - Prikaz cijena i dostupnosti
 
-![PC Details](screenshots/details.png)
+![PC Details](screenshots/pc%20details.png)
 
 ### 🔧 Build Your Own PC
 - Izaberite procesor, grafičku, RAM, matičnu ploču, napajanje i kućište
 - Real-time kalkulacija cijene
 
-![Admin Panel](screenshots/admin.png)
+![Products Page](screenshots/products%20page.png)
 
 ### 👤 Korisnički Profil
 - Registracija i login
 - Uređivanje profila i upload slike
 
-![Edit Profile](screenshots/profile.png)
+![Edit Profile](screenshots/profile%20page.png)
 
 ### 💬 Support Center
 - Live chat sa admin timom
 
-![Support](screenshots/support.png)
+![Support](screenshots/support%20page.png)
 
 ## 🛠️ Tehnologije
 
